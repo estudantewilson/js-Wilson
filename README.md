@@ -1,15 +1,29 @@
-Boas vindas ao meu perfil 💙💙
+**WILSON PINTO NETO**
 
--Meu nome é Wilson Neto;
+-Endereço: Capricórnio |||, Rua 13, Número 93
+-Tel: (12) 996623647
+-E-mail: wilsonpintoneto16@gmail.com
 
--Estou estudando na Alura;
+**Sobre mim**
 
--Estou me desenvolvendo na linguagem JavaScript;
+-Cursando o 3° ano do novo ensino médio 
+-Jogador de tênis de mesa 
+-Pensa cursar em educação física 
 
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+**Experiência**
 
-Você pode entrar em contato comigo 📫
+-Wilson Pinto Neto 
+-Assistência de celulares
+-Início: 04/11/2023 
+-Final: 15/02/2024
 
--00001078155215sp@al.educacao.sp.gov.br;
+**Habilidades**
 
--@wilsu_16.
+-Comunicação
+-Vendas
+-Adaptabilidade 
+-Proativo 
+-Trabalho em equipe
+-Foco em resultados 
+
+
