@@ -1,41 +1,60 @@
-**WILSON PINTO NETO**
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
 
--Endereço: Capricórnio |||, Rua 13, Número 93
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
 
--Tel: (12) 996623647
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
--E-mail: wilsonpintoneto16@gmail.com
+.chamada-texto {
+    margin-right: 5%;
+}
 
-**Sobre mim**
+h1 {
+    font-size: 40px;
+}
 
--Cursando o 3° ano do novo ensino médio 
+p {
+    font-size: 20px;
+}
 
--Jogador de tênis de mesa 
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
 
--Pensa cursar em educação física 
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
 
-**Experiência**
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
 
--Wilson Pinto Neto 
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
 
--Assistência de celulares
-
--Início: 04/11/2023 
-
--Final: 15/02/2024
-
-**Habilidades**
-
--Comunicação
-
--Vendas
-
--Adaptabilidade 
-
--Proativo 
-
--Trabalho em equipe
-
--Foco em resultados 
-
-
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
